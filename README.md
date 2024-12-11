@@ -1,16 +1,15 @@
-## Hi there 👋
+# PeterTheFlower - GitHub Profile
 
-<!--
-**PeterTheFlower/PeterTheFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć! 👋 Jestem **PeterTheFlower**, student na **AGH** (Akademia Górniczo-Hutnicza) w Krakowie.
 
-Here are some ideas to get you started:
+- 🎓 Aktualnie studiuję na kierunku Cyberbezpieczeństwo.
+- 💻 Oprócz cyberbezpieczeństwa interesuję się sportem, medycyną pola walki i strzelaniem.
+- 📚 Uwielbiam rozwiązywać problemy i szukać rozwiązań.
+- 🌱 Uczę się nowych technologii i poznaję świat **CYBER**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dzięki za odwiedzenie mojego profilu! 😊 Jeśli masz pytania, czuj się swobodnie, żeby się ze mną skontaktować!
+
+---
+
+## Kontakt
+- 📧 Email: [fakemail](fakemail@fakemail.com)
