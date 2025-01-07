@@ -8,7 +8,7 @@ Cześć! 👋 Jestem **PeterTheFlower**, student na **AGH** (Akademia Górniczo-
 - 🌱 Uczę się nowych technologii i poznaję świat **CYBER**.
 
 Tutaj link do mojej strony: https://petertheflower.github.io/
-a tutaj link do strony azure: https://wdi-web-app-a3gudyc0a5csacbc.polandcentral-01.azurewebsites.net/
+Tutaj link do strony azure: https://wdi-web-app-a3gudyc0a5csacbc.polandcentral-01.azurewebsites.net/
 # Tworzenie strony w Azure
 
 W tej sekcji opisuję, jak stworzyć stronę internetową w ramach platformy **Microsoft Azure**.
