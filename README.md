@@ -30,7 +30,7 @@ W tej sekcji opisuję, jak stworzyć stronę internetową w ramach platformy **M
 1. Przygotuj pliki strony (HTML, CSS, PHP).
 2. Użyj **FTP** lub **Git** do przesłania plików na serwer.
 3. Po zakończeniu procesu, strona będzie dostępna pod przypisanym adresem URL.
-
+   [u mmnie kod pobiera z githuba](images/azure_web_2.png)
 
 
 Dzięki za odwiedzenie mojego profilu! 😊 Jeśli masz pytania, czuj się swobodnie, żeby się ze mną skontaktować!
