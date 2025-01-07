@@ -7,6 +7,8 @@ Cześć! 👋 Jestem **PeterTheFlower**, student na **AGH** (Akademia Górniczo-
 - 📚 Uwielbiam rozwiązywać problemy i szukać rozwiązań.
 - 🌱 Uczę się nowych technologii i poznaję świat **CYBER**.
 
+# Linki do stron internetowych
+
 Tutaj link do mojej strony: https://petertheflower.github.io/
 
 Tutaj link do strony azure: https://wdi-web-app-a3gudyc0a5csacbc.polandcentral-01.azurewebsites.net/
