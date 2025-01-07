@@ -23,6 +23,8 @@ W tej sekcji opisuję, jak stworzyć stronę internetową w ramach platformy **M
 1. Wyszukaj usługę **App Service**.
 2. Utwórz nową aplikację, wybierając odpowiednią subskrypcję, grupę zasobów i plan hostingu.
 3. Po utworzeniu aplikacji, otrzymasz adres URL w postaci `https://nazwa-aplikacji.azurewebsites.net`.
+![widok po utworzeniu](images/azure_web_1.png)
+
 
 ### Krok 3: Wgrywanie plików strony
 1. Przygotuj pliki strony (HTML, CSS, PHP).
