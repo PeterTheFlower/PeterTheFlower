@@ -36,6 +36,9 @@ W tej sekcji opisuję, jak stworzyć stronę internetową w ramach platformy **M
 4. 
    [u mmnie kod pobiera z githuba](images/azure_web_2.png)
 
+Link do forka: https://github.com/PeterTheFlower/openapi-generator
+Link do artykułu z forkiem: https://cs.paperswithcode.com/paper/towards-a-secure-api-client-generator-for-iot
+
 
 Dzięki za odwiedzenie mojego profilu! 😊 Jeśli masz pytania, czuj się swobodnie, żeby się ze mną skontaktować!
 
